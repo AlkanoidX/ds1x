@@ -1,0 +1,23 @@
+{
+ "chunk": 8388608,
+ "files": [
+  {
+   "path": "default.xex",
+   "size": 13938688,
+   "chunks": 2,
+   "sha256": "2a0adbcaecaf5deaeb801ffbbaedcb813617b19f1043187f43fd5f82c15ec7e3"
+  },
+  {
+   "path": "bigfile0.viv",
+   "size": 3406452976,
+   "chunks": 407,
+   "sha256": "af2759a5dfa6643d891b90caa242761f9bffaab628ee1bca9cb6bd77890b9df7"
+  },
+  {
+   "path": "bigfile1.viv",
+   "size": 3413728960,
+   "chunks": 407,
+   "sha256": "a43fe788f35b607db9ccf2e54c92f3820ba905f0180f81e1bda6bebad298d0ad"
+  }
+ ]
+}
